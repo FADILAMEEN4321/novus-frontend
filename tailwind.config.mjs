@@ -5,7 +5,9 @@ export default {
 		extend: {
 			colors: {
 				"novus-teal": '#149B9E',
-				"novus-dark-green": '#044041'
+				"novus-dark-green": '#044041',
+				"novus-light-green": '#21B685',
+				"novus-gray": '#605B6C',
 			}
 		},
 	},
